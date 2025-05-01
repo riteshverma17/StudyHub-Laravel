@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to Study Hub</title>
+    <title>Welcome to StudySphere</title>
 
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -26,14 +26,14 @@
     <!-- Header -->
   <!-- Header -->
 <header class="bg-white shadow-lg py-6 px-8 flex justify-between items-center">
-    <h1 class="text-2xl font-bold text-blue-600 tracking-wide">Study Hub</h1>
+    <h1 class="text-2xl font-bold text-blue-600 tracking-wide">StudySphere</h1>
 </header>
 
 <!-- Main Content -->
 <main class="flex-grow bg-gray-50">
     <!-- Hero Section -->
     <section class="mt-20 flex flex-col justify-center items-center px-6 py-20 text-center">
-        <h2 class="text-6xl font-extrabold text-blue-600 mb-8 tracking-tight">Welcome to Study Hub</h2>
+        <h2 class="text-6xl font-extrabold text-blue-600 mb-8 tracking-tight">Welcome to StudySphere</h2>
         <p class="text-xl text-gray-700 mb-12">Join study groups, share notes, and collaborate in real time!</p>
 
         <div class="flex flex-col sm:flex-row justify-center gap-6">
@@ -52,9 +52,9 @@
     <!-- About Section -->
     <section class="mt-20 px-8 py-20 bg-gradient-to-r from-blue-50 via-blue-100 to-blue-200">
         <div class="max-w-6xl mx-auto text-center">
-            <h3 class="text-5xl font-bold text-blue-600 mb-8">About Study Hub</h3>
+            <h3 class="text-5xl font-bold text-blue-600 mb-8">About StudySphere</h3>
             <p class="text-lg text-gray-700 mb-12">
-                Study Hub is the perfect place for students to collaborate, share ideas, and learn together. 
+                StudySphere is the perfect place for students to collaborate, share ideas, and learn together. 
                 Form study groups, exchange notes, discuss challenging topics, and grow your knowledge with like-minded learners from around the world.
                 Empower your academic journey with meaningful conversations and real-time collaboration!
             </p>
@@ -77,7 +77,7 @@
 
 <!-- Footer -->
 <footer class="bg-white text-center text-sm py-6 mt-16 shadow-md">
-    <p class="text-gray-600">&copy; {{ date('Y') }} Study Hub. All rights reserved.</p>
+    <p class="text-gray-600">&copy; {{ date('Y') }} StudySphere. All rights reserved.</p>
 </footer>
 
 </body>

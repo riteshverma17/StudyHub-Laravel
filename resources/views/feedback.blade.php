@@ -79,7 +79,7 @@
 
         <!-- Footer -->
         <footer class="text-center text-gray-500 text-sm pt-10">
-            &copy; <?php echo date('Y'); ?> Study Group Platform. All rights reserved.
+            &copy; <?php echo date('Y'); ?> All rights reserved.
         </footer>
 
     </body>
